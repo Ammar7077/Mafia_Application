@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.mafia_app">
    <application
-        android:label="mafia_app"
+        android:label="MAFIA - مافيا"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
